@@ -20,8 +20,9 @@ form {
 	padding-left: 20px; 
 	padding-bottom:10px;
 	padding-top:10px;
-	margin-left: 1200px;
-	margin-right: 200px;
+	float:right;
+	/*margin-left: 1200px;
+	margin-right: 200px;*/
 	margin-top: 50px;
 	font-size: 30px;
 	font-weight: 30;
