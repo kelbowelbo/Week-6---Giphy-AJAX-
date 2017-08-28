@@ -1,8 +1,4 @@
 
-
-
-
-// array holding 
 var topics = ["ice hockey", "rock climbing", "snow skiing", "ballet", "swimming", "cricket", "boxing", "gymnastics", "badminton", "tennis", "football", "baseball", "soccer", "judo"];
 var startStop = [false, false, false, false, false, false, false, false, false, false];
 var lastResponse;
@@ -79,9 +75,6 @@ $(document).ready(function() {
  	});
 
 });
-
-
-
 
   	function playBackground() {
   	var x=document.getElementById("backgroundmusic");

@@ -1,5 +1,7 @@
 body {
     background-image: url("../media/sportswallpaper.jpg");
+    background-repeat: no-repeat;
+    background-color: black;
 }
 button {
 	background-color: white;
@@ -21,8 +23,6 @@ form {
 	padding-bottom:10px;
 	padding-top:10px;
 	float:right;
-	/*margin-left: 1200px;
-	margin-right: 200px;*/
 	margin-top: 50px;
 	font-size: 30px;
 	font-weight: 30;
